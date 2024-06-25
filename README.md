@@ -7,22 +7,18 @@ Is a simple minecraft host on github
  - Config and Host by #WindyHell
 
 ### Code: #
- - Server Creating:
+ - OS Creating:
     + sudo apt update
     + sudo apt upgrade
+ - Core (Paper 1.18.2):
+    + wget https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar
  - Java:
-    + sudo apt install openjdk-17-jdk (MC 1.17.1)
+    + sudo apt install openjdk-17-jdk (MC 1.18.2)
  - Run:
-    + java -Xmx12288M -Xms12288M -jar filename.jar nogui
-
+    + java -Xmx12288M -Xms12288M -jar server.jar nogui
 ### Port Forwarding: #
  - Install:
-    + wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-arm64.tgz
-    + tar -xvzf ngrok-v3-stable-linux-amd64.tgz
- - Host:
-    + ./ngrok authtoken “yourtoken”
-    + ./ngrok tcp 25565
-
+    + plugin
 ### Console: #
  - Install:
     + sudo apt install glances
