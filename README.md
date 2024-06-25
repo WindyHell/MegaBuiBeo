@@ -1,3 +1,5 @@
 # MegaBuiBeo
 Is a simple minecraft host on github
-Make by Tomnotbacon and Host by windy
+
+ - Server made by ##Tomnotbacon, Windyhell #
+ - Config and Host by ##WindyHell##
