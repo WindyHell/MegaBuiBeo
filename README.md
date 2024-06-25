@@ -1,5 +1,7 @@
 # MegaBuiBeo
+### Create Windyhell, Tomnotbacon #
+
 Is a simple minecraft host on github
 
- - Server made by ##Tomnotbacon, Windyhell 
- - Config and Host by ##WindyHell
+ - Server made by #Tomnotbacon, Windyhell 
+ - Config and Host by #WindyHell
